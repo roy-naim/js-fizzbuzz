@@ -25,7 +25,6 @@ for (var i = 1; i <= 100; i++) {
   //   console.log(numbers);
   // }
 
-
 //soluzione alternativa
 
 //   if (i%3 === 0 && i%5 === 0) {
